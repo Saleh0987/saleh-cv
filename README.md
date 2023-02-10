@@ -1,1 +1,6 @@
 
+  # Portfolio
+ 
+## technologies
+- React
+- SCSS
